@@ -1,0 +1,11 @@
+__pycache__
+teste.py
+.idea
+pyvenv.cfg
+/lib
+/bin
+/include
+*_r*.txt
+*^text
+text2.txt
+text1.txt
